@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+filing_cache/
+edgar_storage/
+*.pyc
+b.csv
+Master_*.csv
