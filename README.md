@@ -22,7 +22,7 @@ python Datasetmore.py
 
 You'll need to set your own name/email in the `set_identity(...)` line near the top of the script, since the SEC asks for it when you access EDGAR.
 
-## Why keyword lists instead of something fancier (i.e entering a topic and having AI find all related works automatically?
+## Why keyword lists instead of something fancier (i.e entering a topic and having AI find all related works automatically)?
 
 More powerful tools exist for analyzing semantics, but they're harder to tune and harder to explain. This version is simple, transparent, and free: you can always see exactly which term caused a sentence to count, and you can improve it just by editing the keyword list.
 
